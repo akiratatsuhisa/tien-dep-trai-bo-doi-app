@@ -1,8 +1,9 @@
 # Getting Started with Tien Dep Trai Bo Doi App
 
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
-![state](https://img.shields.io/badge/state-completed-green.svg)
+![state](https://img.shields.io/badge/state-completed-brightgreen.svg)
 ![test](https://img.shields.io/badge/bug-normal-blue.svg)
+![version](https://img.shields.io/badge/version-1.0.0-brightgreen.svg)
 
 ## Demo
 
